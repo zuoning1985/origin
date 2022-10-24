@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  MFCLibraryTest.cpp
+  testMfc.cpp
+C:\Users\Alienware\Desktop\GitHub\程序库\WB_MainGUI\MFCLibraryTest\testMfc.cpp(6,1): warning C4273: “testMfc::test”: dll 链接不一致
+C:\Users\Alienware\Desktop\GitHub\程序库\WB_MainGUI\include\testMfc.h(5,7): message : 参见“test”的前一个定义
+  正在生成代码...
+    正在创建库 ..\lib\MFCLibraryTest.lib 和对象 ..\lib\MFCLibraryTest.exp
+  MFCLibraryTest.vcxproj -> C:\Users\Alienware\Desktop\GitHub\程序库\WB_MainGUI\bin\MFCLibraryTest.dll
